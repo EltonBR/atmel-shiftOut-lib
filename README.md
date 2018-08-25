@@ -1,5 +1,5 @@
 # atmel-shiftOut-lib
-simple lib to use shiftout 74hc595 on atmel microcontrolers
+simple lib to use shiftout 74hc595 on atmel microcontrollers
 
 to use, need change data diretion register (DDR) and port and pins in define directives on file shiftout.h  
 
